@@ -27,7 +27,7 @@ function App() {
             Project Loader
           </Typography>
           <Typography variant="body2" color="text">
-            For further questions, including partnership opportunities, please email
+            For further question, including partnership opportunities, please email
             aaron@abcode.com or contact using our contact form.
           </Typography>
         </Grid>
